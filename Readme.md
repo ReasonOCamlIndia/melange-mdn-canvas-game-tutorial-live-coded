@@ -1,3 +1,5 @@
+[![Reason OCaml India Discord](https://img.shields.io/discord/851000331721900053)](https://discord.com/invite/Ytr36fRC4C)
+
 # MDN's HTML5 Canvas tutorial in Reason
 Live coded [reason-bangalore.org](https://reason-bangalore.org/)'s meetup.
 
